@@ -1,0 +1,58 @@
+:root {
+  --black: #000000;
+  --cyan--aqua: #00d1ff;
+  --cyan--aqua-2: #00ffe0;
+  --white: #ffffff;
+
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 32px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 80px;
+  --font-size-xxs: 13px;
+
+  --font-family-bouncy-blackpersonal_use_only: "Bouncy-BlackPERSONAL USE ONLY",
+    Helvetica;
+  --font-family-love_ya_like_a_sister: "Love Ya Like A Sister", Helvetica;
+  --font-family-mclaren: "McLaren", Helvetica;
+}
+.mclaren-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-mclaren);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mclaren-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-mclaren);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mclaren-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-mclaren);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bouncy-blackpersonaluseonly-black-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.bouncy-blackpersonaluseonly-black-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 900;
+}

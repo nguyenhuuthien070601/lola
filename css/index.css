@@ -1,0 +1,846 @@
+/* screen - 430px */
+
+.x430px {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2476px;
+  width: 430px;
+}
+
+.x430px .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/image-4-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 2476px;
+  padding: 12px 0;
+  width: 428px;
+}
+
+.x430px .logo-17-1-2 {
+  height: 56px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 56px;
+}
+
+.x430px .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 14.0px;
+  margin-top: 10px;
+  min-width: 344px;
+}
+
+.x430px .about {
+  height: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 90px;
+}
+
+.x430px .tokenomics-1 {
+  height: 29px;
+  letter-spacing: 0;
+  margin-left: 20px;
+  width: 113px;
+}
+
+.x430px .chart {
+  height: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 26px;
+  text-align: center;
+  width: 95px;
+}
+
+.x430px .overlap-group7 {
+  height: 32px;
+  margin-left: 3.0px;
+  margin-top: 26px;
+  position: relative;
+  width: 83px;
+}
+
+.x430px .rectangle-7 {
+  background-color: var(--cyan--aqua);
+  border: 1px solid;
+  border-color: var(--cyan--aqua-2);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 30px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 80px;
+}
+
+.x430px .buy-now-1 {
+  height: 32px;
+  top: 0;
+  width: 83px;
+}
+
+.x430px .logo-17-1-3 {
+  height: 170px;
+  margin-left: 5.99px;
+  margin-top: 39px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.x430px .group-container-3 {
+  gap: 36px;
+  margin-left: 1.02px;
+  margin-top: 26px;
+  min-width: 273px;
+}
+
+.x430px .group-1 {
+  height: 35px;
+  width: 41px;
+}
+
+.x430px .name-3 {
+  font-family: var(--font-family-love_ya_like_a_sister);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 51px;
+  line-height: 20px;
+  margin-left: 9.0px;
+  margin-top: 48px;
+  text-align: center;
+  width: 399px;
+}
+
+.x430px .overlap-group8 {
+  border-radius: 50px;
+  height: 549px;
+  margin-left: 6.0px;
+  margin-top: 56px;
+  position: relative;
+  width: 396px;
+}
+
+.x430px .rectangle-12 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #7200ff26;
+  border: 3px solid;
+  border-color: var(--cyan--aqua);
+  border-radius: 50px;
+  box-shadow: 1px 7px 4.3px #41414140;
+  height: 549px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 396px;
+}
+
+.x430px .pic-container-1 {
+  height: 243px;
+  left: 79px;
+  position: absolute;
+  top: 38px;
+  width: 233px;
+}
+
+.x430px .pic-1-1 {
+  height: 204px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 186px;
+}
+
+.x430px .pic-2-1 {
+  height: 222px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 207px;
+}
+
+.x430px .pic-3-1 {
+  height: 243px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 233px;
+}
+
+.x430px .name-4 {
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  height: 85px;
+  left: 46px;
+  line-height: 90px;
+  position: absolute;
+  top: 310px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.x430px .overlap-group1 {
+  height: 25px;
+  left: 153px;
+  position: absolute;
+  top: 487px;
+  width: 86px;
+}
+
+.x430px .rectangle-7-1 {
+  background-color: var(--cyan--aqua);
+  border: 1px solid;
+  border-color: var(--cyan--aqua-2);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 25px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.x430px .buy-now-2 {
+  height: 14px;
+  top: 5px;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.x430px .name-5 {
+  font-family: var(--font-family-love_ya_like_a_sister);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 109px;
+  left: 22px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 367px;
+  width: 349px;
+}
+
+.x430px .overlap-group5-1 {
+  height: 155px;
+  margin-left: 3.0px;
+  margin-top: 14px;
+  position: relative;
+  width: 339px;
+}
+
+.x430px .tokenomics-2 {
+  color: var(--white);
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  height: 125px;
+  left: 0;
+  letter-spacing: 4.80px;
+  position: absolute;
+  top: 0;
+  width: 339px;
+}
+
+.x430px .lola-contract-has-c-1 {
+  height: 60px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  width: 325px;
+}
+
+.x430px .overlap-group3-1 {
+  background-image: url(../img/15489-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 154px;
+  margin-left: 2.0px;
+  margin-top: 39px;
+  position: relative;
+  width: 176px;
+}
+
+.x430px .place-1 {
+  height: 66px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 172px;
+}
+
+.x430px .x100-m-1 {
+  height: 52px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 143px;
+}
+
+.x430px .overlap-group-3 {
+  background-image: url(../img/15489-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 154px;
+  margin-left: 2.0px;
+  margin-top: 55px;
+  position: relative;
+  width: 176px;
+}
+
+.x430px .tax-1 {
+  height: 66px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  width: 172px;
+}
+
+.x430px .text-2 {
+  height: 52px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 143px;
+}
+
+.x430px .liquidity-1 {
+  height: 66px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 172px;
+}
+
+.x430px .burned-1 {
+  color: var(--black);
+  font-family: var(--font-family-mclaren);
+  font-size: 26px;
+  font-weight: 400;
+  height: 52px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  width: 143px;
+}
+
+.x430px .logo-17-3-1 {
+  height: 142px;
+  margin-left: 2.0px;
+  margin-top: 159px;
+  object-fit: cover;
+  width: 142px;
+}
+
+.x430px .group-container-4 {
+  gap: 40px;
+  margin-left: 2.26px;
+  margin-top: 56px;
+  min-width: 302px;
+}
+
+.x430px .group-2 {
+  height: 42px;
+  width: 46px;
+}
+
+.x430px .group-13-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 1px;
+  justify-content: flex-end;
+  margin-left: 0;
+  margin-top: 49px;
+  min-width: 428px;
+  padding: 0 0.0px;
+  transform: rotate(-0.27deg);
+}
+
+.x430px .line-1 {
+  height: 3px;
+  margin-top: -2.01px;
+  object-fit: cover;
+  transform: rotate(0.27deg);
+  width: 428px;
+}
+
+.x430px .copyright-lola-all-rights-reserved-1 {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0;
+  margin-top: 13px;
+  text-align: center;
+  width: 428px;
+}
+
+.x430px .buy-now {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+}
+
+.x430px .group-container {
+  align-items: flex-start;
+  display: flex;
+}
+
+.x430px .name {
+  color: var(--white);
+  letter-spacing: 0;
+}
+
+.x430px .tokenomics {
+  line-height: normal;
+  text-align: center;
+}
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 3240px;
+  width: 1900px;
+}
+
+.index .overlap-group5 {
+  align-items: center;
+  background-image: url(../img/image-4.png);
+  display: flex;
+  flex-direction: column;
+  min-height: 3240px;
+  padding: 35px 146px;
+  width: 1900px;
+}
+
+.index .navbar {
+  align-items: center;
+  display: flex;
+  margin-left: 18.0px;
+  margin-top: 10px;
+  min-width: 1384px;
+}
+
+.index .logo-17-1 {
+  height: 80px;
+  object-fit: cover;
+  width: 80px;
+}
+
+.index .navbar-link-place {
+  margin-left: 291px;
+  width: 79px;
+}
+
+.index .navbar-link-about {
+  margin-left: 54px;
+  width: 88px;
+}
+
+.index .navbar-link-tokenomics {
+  margin-left: 44px;
+  width: 185px;
+}
+
+.index .navbar-link-chart {
+  margin-left: 44px;
+  width: 89px;
+}
+
+.index .overlap-group-1 {
+  background-color: var(--cyan--aqua);
+  border: 1px solid;
+  border-color: var(--cyan--aqua-2);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 55px;
+  margin-left: 227px;
+  margin-top: 1.0px;
+  min-width: 196px;
+  padding: 10px 36px;
+}
+
+.index .buy-now {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 123px;
+}
+
+.index .group-16 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.0px;
+  margin-top: 121px;
+  min-height: 762px;
+  width: 993px;
+}
+
+.index .logo-17-1-1 {
+  height: 502px;
+  margin-left: 7.0px;
+  object-fit: cover;
+  width: 502px;
+}
+
+.index .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 52px;
+  margin-right: 2.01px;
+  margin-top: 39px;
+  min-width: 395px;
+}
+
+.index .group {
+  height: 63px;
+  width: 59px;
+}
+
+.index .name {
+  font-family: var(--font-family-love_ya_like_a_sister);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 151px;
+  line-height: 40px;
+  margin-right: 2.0px;
+  margin-top: 7px;
+  text-align: center;
+  width: 991px;
+}
+
+.index .group-container-1 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-self: flex-end;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #7200ff26;
+  border: 12px solid;
+  border-color: var(--cyan--aqua);
+  border-radius: 98px;
+  box-shadow: 1px 7px 4.3px #41414140;
+  height: 733px;
+  margin-top: 98px;
+  position: relative;
+  width: 1579px;
+}
+
+.index .group-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 106px;
+  min-height: 491px;
+  position: absolute;
+  top: 89px;
+  width: 708px;
+}
+
+.index .name-1 {
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  height: 200px;
+  line-height: 90px;
+  width: 704px;
+}
+
+.index .name-2 {
+  font-family: var(--font-family-love_ya_like_a_sister);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 172px;
+  line-height: 40px;
+  margin-left: 14px;
+  margin-top: 7px;
+  width: 556px;
+}
+
+.index .overlap-group-2 {
+  background-color: var(--cyan--aqua);
+  border: 1px solid;
+  border-color: var(--cyan--aqua-2);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 55px;
+  margin-left: 13px;
+  margin-top: 58px;
+  min-width: 196px;
+  padding: 10px 36px;
+}
+
+.index .pic-container {
+  height: 715px;
+  left: 795px;
+  position: absolute;
+  top: -3px;
+  width: 689px;
+}
+
+.index .pic-1 {
+  height: 572px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 522px;
+}
+
+.index .pic-2 {
+  height: 638px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 596px;
+}
+
+.index .pic-3 {
+  height: 715px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 689px;
+}
+
+.index .group-14 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 36.0px;
+  margin-top: 68px;
+  min-height: 589px;
+  width: 1080px;
+}
+
+.index .tokenomics {
+  color: var(--white);
+  font-family: var(--font-family-bouncy-blackpersonal_use_only);
+  font-size: 70px;
+  font-weight: 900;
+  height: 125px;
+  letter-spacing: 10.50px;
+  line-height: normal;
+  margin-right: 36.0px;
+  text-align: center;
+  width: 534px;
+}
+
+.index .lola-contract-has-c {
+  height: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 69.0px;
+  margin-top: 4px;
+  text-align: center;
+  width: 769px;
+}
+
+.index .overlap-group-container {
+  align-self: flex-start;
+  gap: 73px;
+  height: 279px;
+  margin-top: 121px;
+  min-width: 1064px;
+}
+
+.index .overlap-group {
+  background-image: url(../img/15489-1.png);
+  height: 268px;
+  position: relative;
+  width: 306px;
+}
+
+.index .place {
+  height: 66px;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 147px;
+  width: 172px;
+}
+
+.index .x100-m {
+  height: 52px;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 195px;
+  width: 143px;
+}
+
+.index .tax {
+  height: 66px;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  width: 172px;
+}
+
+.index .text-1 {
+  height: 52px;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 195px;
+  width: 143px;
+}
+
+.index .overlap-group3 {
+  align-self: flex-end;
+  background-image: url(../img/15489-1.png);
+  height: 268px;
+  position: relative;
+  width: 306px;
+}
+
+.index .liquidity {
+  height: 66px;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 148px;
+  width: 172px;
+}
+
+.index .burned {
+  height: 52px;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 199px;
+  width: 143px;
+}
+
+.index .logo-17-3 {
+  height: 260px;
+  margin-top: 186px;
+  object-fit: cover;
+  width: 260px;
+}
+
+.index .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 52px;
+  margin-left: 0.99px;
+  margin-top: 54px;
+  min-width: 395px;
+}
+
+.index .group-17 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  margin-left: 22.51px;
+  margin-top: 66px;
+  min-height: 80px;
+  width: 1113px;
+}
+
+.index .group-13 {
+  background-image: url(../img/line-1.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: -1px;
+  width: 1111px;
+}
+
+.index .copyright-lola-all-rights-reserved {
+  color: var(--white);
+  font-family: var(--font-family-mclaren);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 22.51px;
+  text-align: center;
+  width: 526px;
+}
+
+.index .name-3 {
+  color: var(--white);
+  letter-spacing: 0;
+}
+
+.index .navbar-link {
+  height: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1.0px;
+  text-align: center;
+}
+
+.index .overlap {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.index .overlap-group-3 {
+  align-items: flex-start;
+  display: flex;
+}
+@media screen and (max-width: 1899px) {
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.x430px { 
+    display: none;
+   }
+}
